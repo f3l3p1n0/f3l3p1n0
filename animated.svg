@@ -21,9 +21,10 @@
 
       </style>
 
-      <div class="container">
-        <h1>¡Hola! Mi nombre es Marc aka (f3l3p1n0)</h1>
-      </div>
+        <div class="container">
+            <p>¡Hola! <span class="typed-text"></span><span class="cursor"></span></p>
+        </div>
+        <script src="animated.js"></script>
     </div>
   </foreignObject>
 </svg>

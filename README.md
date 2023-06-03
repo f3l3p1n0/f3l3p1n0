@@ -1,3 +1,13 @@
-<div style="width: 100%;">
-  <img src="animated.svg" style="width: 100%;">
-</div> 
+<p align="center">
+  <a href=""><img src="https://i.postimg.cc/J7KQ4SR1/Marc-Ma-1.png"></a><br><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&pause=1000&color=4B4B4B&center=true&vCenter=true&width=550&lines=Estudiante+en+Administraci%C3%B3n+de+sistemas;Autodidacta;Amante+de+la+Ciberseguridad" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/@f3l3p1n0"><img width="32px" alt="Youtube" title="Youtube" src="https://i.postimg.cc/YSY6KCrS/youtube.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/f3l3p1n0/?igshid=Mzc1MmZhNjY%3D"><img width="32px" src="https://i.postimg.cc/MGFh4tGw/instagram.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/marc-mañé-lobato/"><img width="32px" src="https://i.postimg.cc/JhHLRSv0/linkedin-2.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://f3l3p1n0.github.io"><img width="32px" src="https://i.postimg.cc/bwgX0kSx/internet.png"/></a>
+</p>

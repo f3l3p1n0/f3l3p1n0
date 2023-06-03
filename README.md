@@ -11,3 +11,14 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://f3l3p1n0.github.io"><img width="32px" src="https://i.postimg.cc/bwgX0kSx/internet.png"/></a>
 </p>
+<br/>
+<p align="center">
+  <a href="https://www.youtube.com/@f3l3p1n0?sub_confirmation=1">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC3KiJ4mruD6Nt9_e0sdmCcw?color=cyan&logo=Youtube&logoColor=red&style=for-the-badge"></a>
+  <a href="https://www.youtube.com/@f3l3p1n0">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC3KiJ4mruD6Nt9_e0sdmCcw?color=cyan&logo=youtube&logoColor=red&style=for-the-badge"></a> 
+  <a href="https://github.com/f3l3p1n0?tab=repositories&sort=stargazers">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/f3l3p1n0?logo=github&style=for-the-badge"></a>
+  <a href="https://github.com/f3l3p1n0?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/f3l3p1n0?label=Follow%20Me&logo=github&style=for-the-badge"></a>
+</p>

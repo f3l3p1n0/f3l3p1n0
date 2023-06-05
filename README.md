@@ -29,9 +29,9 @@
 <details open> 
   <summary><h2>📕 Proyectos realizados</h2></summary>
   <p align="left">
-    <a href="https://github.com/f3l3p1n0/skullsage"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=skullsage&theme=react&bg_color=404040&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="skullsage"></a>
-    <a href="https://github.com/f3l3p1n0/f3l3key"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=f3l3key&theme=react&bg_color=404040&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="f3l3key"></a>
-    <a href="https://github.com/f3l3p1n0/brute_moodle"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=brute_moodle&theme=react&bg_color=404040&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="brute_moodle"></a>
+    <a href="https://github.com/f3l3p1n0/skullsage"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=skullsage&theme=react&bg_color=404040&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="skullsage"></a>
+    <a href="https://github.com/f3l3p1n0/f3l3key"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=f3l3key&theme=react&bg_color=404040&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="f3l3key"></a>
+    <a href="https://github.com/f3l3p1n0/brute_moodle"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=brute_moodle&theme=react&bg_color=404040&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="brute_moodle"></a>
   </p>
 
   <p align="left">

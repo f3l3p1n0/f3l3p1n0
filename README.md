@@ -11,6 +11,8 @@
   <a href="https://www.linkedin.com/in/marc-mañé-lobato/"><img width="32px" src="https://i.postimg.cc/JhHLRSv0/linkedin-2.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://f3l3p1n0.github.io"><img width="32px" src="https://i.postimg.cc/bwgX0kSx/internet.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.buymeacoffee.com/f3l3p1n07"><img width="32px" src="https://i.postimg.cc/wjQQCNY6/coffee.png"/></a>
 </p>
 
 <br/>

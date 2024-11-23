@@ -1,6 +1,6 @@
 <p align="center">
-  <a href=""><img src="https://i.postimg.cc/J7KQ4SR1/Marc-Ma-1.png"></a><br><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&pause=1000&color=4B4B4B&center=true&vCenter=true&width=550&lines=Estudiante+en+Administraci%C3%B3n+de+sistemas;Autodidacta;Amante+de+la+Ciberseguridad" alt="Typing SVG" /></a>
+  <a href=""><img src="https://i.postimg.cc/jjg4DLSz/coollogo-com-1919409.png" width="300px" height="100px"></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=16&duration=4000&pause=1000&center=true&width=850&lines=Analista+de+Ciberseguridad;Solo+rompo+barreras...+%C3%A9ticamente;Explorador+incansable+del+conocimiento+y+la+innovaci%C3%B3n" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">

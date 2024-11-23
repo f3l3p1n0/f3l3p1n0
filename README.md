@@ -1,6 +1,6 @@
 <p align="center">
   <a href=""><img src="https://i.postimg.cc/jjg4DLSz/coollogo-com-1919409.png" width="300px" height="100px"></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=16&duration=4000&pause=1000&center=true&width=850&lines=Analista+de+Ciberseguridad;Solo+rompo+barreras...+%C3%A9ticamente;Explorador+incansable+del+conocimiento+y+la+innovaci%C3%B3n" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&center=true&width=600&lines=Analista+de+Ciberseguridad;Solo+rompo+barreras...+%C3%A9ticamente;Explorador+incansable+del+conocimiento+y+la+innovaci%C3%B3n" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">

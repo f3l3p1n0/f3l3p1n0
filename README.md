@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="https://i.postimg.cc/jjg4DLSz/coollogo-com-1919409.png" width="300px" height="100px"></a><br>
+  <a href=""><img src="https://i.postimg.cc/3wpjfQKb/coollogo-com-1761426.png" width="350px" height="100px"></a><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&center=true&width=600&lines=Analista+de+Ciberseguridad;Solo+rompo+barreras...+%C3%A9ticamente;Explorador+incansable+del+conocimiento+y+la+innovaci%C3%B3n" alt="Typing SVG" /></a>
 </p>
 

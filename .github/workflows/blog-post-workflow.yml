@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://felepino.org/feed/?api_key=${{ secrets.FEED_API_KEY }}"
+          feed_list: "https://felepino.org/feed/${{ secrets.FEED_API_KEY }}"

@@ -23,4 +23,4 @@ jobs:
           output_type: html
           border_radius: 8
           background_color: "#1a1b27"
-          card_width: 250
+          card_width: 300

@@ -15,9 +15,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://felepino.org/feed/?api_key=${{ secrets.FEED_API_KEY }}"
-          max_title_lines: 1
-          show_duration: true
-          output_type: html
-          border_radius: 8
-          background_color: "#1a1b27"
-          card_width: 250
+          disable_html_encoding: true
+          template: "<tr><td>$title</td><td>$url</td></tr>"

@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  <a class="test" href="https://www.youtube.com/@f3l3p1n0?sub_confirmation=1">
+  <a href="https://www.youtube.com/@f3l3p1n0?sub_confirmation=1">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC3KiJ4mruD6Nt9_e0sdmCcw?color=cyan&logo=Youtube&logoColor=red&style=for-the-badge"></a>
   <a href="https://www.youtube.com/@f3l3p1n0">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC3KiJ4mruD6Nt9_e0sdmCcw?color=cyan&logo=youtube&logoColor=red&style=for-the-badge"></a> 
@@ -61,4 +61,8 @@
 <a href="https://www.youtube.com/watch?v=LoMNQZXLZfI"><img src="https://ytcards.demolab.com/?id=LoMNQZXLZfI&title=Install+Hyprland+%28Arch+Linux%29&lang=en&timestamp=1689422060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=250&border_radius=8&duration=234" alt="Install Hyprland (Arch Linux)" title="Install Hyprland (Arch Linux)"></a>
 <a href="https://www.youtube.com/watch?v=KgO267o-iYE"><img src="https://ytcards.demolab.com/?id=KgO267o-iYE&title=bspwm+dotfiles+%28arch+linux%29&lang=en&timestamp=1685729895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=250&border_radius=8&duration=420" alt="bspwm dotfiles (arch linux)" title="bspwm dotfiles (arch linux)"></a>
 <!-- END YOUTUBE-CARDS -->
+  <br/><br/>
+<p align="left">
+  <a href="https://www.youtube.com/@f3l3p1n0?sub_confirmation=1" rel="nofollow"><img src="https://camo.githubusercontent.com/03e72b505c6a4e3975ee1f7d3bd137e8b4efad98231fe8d85406c53d851cef7b/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d5375627363726962652d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d766964656f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&amp;logo=video&amp;logoColor=white"></a>
+</p>
 </details>

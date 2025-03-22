@@ -46,6 +46,11 @@
 <details open> 
   <summary><h3>📊 Estadísticas y actividad</h3></summary>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=f3l3p1n0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=8" alt="Estadísticas de GitHub">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3l3p1n0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Estadísticas de GitHub">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3l3p1n0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&layout=compact" alt="Estadísticas de GitHub">
 </details>
 
+<details close> 
+  <summary><h3>📺 Mis últimos vídeos de YouTube</h3></summary>
+  <!-- BEGIN YOUTUBE-CARDS -->
+  <!-- END YOUTUBE-CARDS -->
+</details>

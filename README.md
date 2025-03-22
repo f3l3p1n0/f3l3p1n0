@@ -54,7 +54,12 @@
 <details open> 
   <summary><h3>🌐 Artículos de mi blog</h3></summary>
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [⚠️ Los estados SMART no funcionan en OMV 7 [Solución]](https://felepino.org/como-crear-un-nas-con-raspberry-pi/)
+- [🟨 Convertir tu máquina física en virtual *VMware*](https://felepino.org/convertir-tu-maquina-fisica-en-virtual-vmware/)
+- [⚙️ Backup completo de tu Windows](https://felepino.org/backup-completo-de-tu-windows/)
+- [🐧 Personalizando tu ArchLinux](https://felepino.org/personalizando-tu-archlinux/)
+- [🌐 Conexión inversa a través de VPN](https://felepino.org/conexion-inversa-a-traves-de-vpn/)
+<!-- BLOG-POST-LIST:END -->
 </details>
 
 <details close> 

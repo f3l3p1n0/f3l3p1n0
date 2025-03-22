@@ -51,6 +51,14 @@
   </p>
 </details>
 
+<details open> 
+  <summary><h3>🌐 Artículos de mi blog</h3></summary>
+  ---
+  ## Latest Blog Posts
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</details>
+
 <details close> 
   <summary><h3>📺 Mis últimos vídeos de YouTube</h3></summary>
   <!-- BEGIN YOUTUBE-CARDS -->

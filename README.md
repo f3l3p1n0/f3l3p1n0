@@ -1,6 +1,6 @@
 <p align="center">
   <a href=""><img src="https://i.postimg.cc/3wpjfQKb/coollogo-com-1761426.png" width="350px" height="100px" center=true></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&center=true&width=600&lines=Analista+de+Ciberseguridad;Solo+rompo+barreras...+%C3%A9ticamente;Explorador+incansable+del+conocimiento+y+la+innovaci%C3%B3n" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Analyst%F0%9F%A5%B7;System+Administrator%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Advanced+Linux+Experience%F0%9F%90%A7" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.youtube.com/@f3l3p1n0?sub_confirmation=1">
+  <a class="test" href="https://www.youtube.com/@f3l3p1n0?sub_confirmation=1">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC3KiJ4mruD6Nt9_e0sdmCcw?color=cyan&logo=Youtube&logoColor=red&style=for-the-badge"></a>
   <a href="https://www.youtube.com/@f3l3p1n0">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC3KiJ4mruD6Nt9_e0sdmCcw?color=cyan&logo=youtube&logoColor=red&style=for-the-badge"></a> 

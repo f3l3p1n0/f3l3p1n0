@@ -53,8 +53,8 @@
 
 <details open> 
   <summary><h3>🌐 Artículos de mi blog</h3></summary>
-  <!-- HASHNODE_BLOG:START -->
-  <!-- HASHNODE_BLOG:END -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </details>
 
 <details close> 

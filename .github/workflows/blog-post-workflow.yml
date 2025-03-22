@@ -16,4 +16,4 @@ jobs:
       - name: Pull in wordpress posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://felepino.org/feed/?${{ secrets.FEED_API_KEY }}"
+          feed_list: "https://felepino.org/feed/${{ secrets.FEED_API_KEY }}"

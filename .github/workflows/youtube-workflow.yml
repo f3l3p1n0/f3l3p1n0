@@ -21,3 +21,4 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
           output_type: html
+          border_radius: 8

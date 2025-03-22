@@ -28,18 +28,24 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/f3l3p1n0?label=Follow%20Me&logo=github&style=for-the-badge"></a>
 </p>
 
-<details open> 
-  <summary><h2>📕 Proyectos realizados</h2></summary>
-  <p align="left">
-    <a href="https://github.com/f3l3p1n0/pinkhypr"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=pinkhypr&theme=react&bg_color=404040&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="pinkhypr"></a>
-    <a href="https://github.com/f3l3p1n0/bluehypr"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=bluehypr&theme=react&bg_color=404040&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="bluehypr"></a>
-    <a href="https://github.com/f3l3p1n0/skullsage"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=skullsage&theme=react&bg_color=404040&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="skullsage"></a>
-    <a href="https://github.com/f3l3p1n0/f3l3key"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=f3l3key&theme=react&bg_color=404040&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="f3l3key"></a>
-    <a href="https://github.com/f3l3p1n0/brute_moodle"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=brute_moodle&theme=react&bg_color=404040&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="brute_moodle"></a>
+<details open>
+  <summary><h3>📕 Proyectos realizados</h3></summary>
+  <p align="left" dir="auto">
+    <a href="https://github.com/f3l3p1n0/pinkhypr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=pinkhypr&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&border_radius=8&description_lines_count=3" alt="pinkhypr" width="35%"></a>
+    <a href="https://github.com/f3l3p1n0/bluehypr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=bluehypr&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&border_radius=8&description_lines_count=3" alt="bluehypr" width="35%"></a>
+    <a href="https://github.com/f3l3p1n0/skullsage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=skullsage&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&border_radius=8&description_lines_count=3" alt="skullsage" width="35%"></a>
+    <a href="https://github.com/f3l3p1n0/f3l3key"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=f3l3key&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&border_radius=8&description_lines_count=3" alt="f3l3key" width="35%"></a>
+    <a href="https://github.com/f3l3p1n0/brute_moodle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=brute_moodle&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&border_radius=8&description_lines_count=3" alt="brute_moodle" width="35%"></a>
   </p>
 
   <p align="left">
     <a href="https://github.com/f3l3p1n0?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Aquí%20Para%20Ver%20Todos%20Mis%20Repos-00FFFF?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
+</details>
+
+<details open> 
+  <summary><h3>📊 Estadísticas y actividad</h3></summary>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=f3l3p1n0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=8" alt="Estadísticas de GitHub">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3l3p1n0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Estadísticas de GitHub">
 </details>
 

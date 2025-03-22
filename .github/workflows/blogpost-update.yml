@@ -17,4 +17,4 @@ jobs:
           feed_list: "https://felepino.org/feed/?api_key=${{ secrets.FEED_API_KEY }}"
           disable_html_encoding: true
           table_tags: true
-          template: "<tr><td>$title</td><td>$url</td></tr>"
+          template: "<tr><td>$link</td></tr>"

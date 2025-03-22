@@ -22,3 +22,4 @@ jobs:
           show_duration: true
           output_type: html
           border_radius: 8
+          background_color: "#1a1b27"

@@ -16,5 +16,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           readme_path: 'index.html'
-          feed_list: "https://felepino.org/feed/"
+          feed_list: "https://felepino.org/feed/?${{ secrets.FEED_API_KEY }}"
           template: '<li><a href="$url">$title</a></li>$newline'

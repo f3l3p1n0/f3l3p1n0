@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://felepino.org"><img width="32px" src="https://i.postimg.cc/bwgX0kSx/internet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fan-diver-1a6.notion.site/Herramientas-comandos-y-utilidades-Ciberseguridad-1c2d7ea3d92c807da5c4e95b0bf7d212"><img width="32px" src="https://i.postimg.cc/C1kgPHjN/3302059.png"/></a>
+  <a href="https://fan-diver-1a6.notion.site/Herramientas-comandos-y-utilidades-Ciberseguridad-1c2d7ea3d92c807da5c4e95b0bf7d212"><img width="32px" src="https://i.postimg.cc/qgVLL297/libreta.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/f3l3p1n07"><img width="32px" src="https://i.postimg.cc/wjQQCNY6/coffee.png"/></a>
 </p>

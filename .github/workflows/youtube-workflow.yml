@@ -2,7 +2,7 @@ name: GitHub Readme YouTube Cards
 on:
   schedule:
     # ejecutar cada mes
-    - cron: "0 0 1 * *"
+    - cron: "0 0 1,15 * *"
   workflow_dispatch:
 
 jobs:

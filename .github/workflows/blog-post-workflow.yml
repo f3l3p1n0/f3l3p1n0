@@ -2,7 +2,7 @@ name: Latest stack oveflow activity
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0 1 * *'
+    - cron:  '0 0 1,15 * *'
 permissions:
       contents: write
 jobs:

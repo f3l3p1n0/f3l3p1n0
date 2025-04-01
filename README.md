@@ -58,11 +58,7 @@
   <summary>&nbsp;<h3>🌐 Artículos de mi blog</h3></summary>
   
   <!-- BLOG-POST-LIST:START -->
-- [🌐 Conectar una subred a tu red de TailScale](https://felepino.org/conectar-una-subred-a-tu-red-de-tailscale/)
-- [🛡️ Asegurar OpenMediaVault en tu red](https://felepino.org/%f0%9f%9b%a1%ef%b8%8f-asegurar-openmediavault-en-tu-red/)
-- [🔐 Asegurar servidor SSH](https://felepino.org/%f0%9f%94%90-asegurar-servidor-ssh/)
-- [⚠️ Los estados SMART no funcionan en OMV 7 [Solución]](https://felepino.org/como-crear-un-nas-con-raspberry-pi/)
-- [🟨 Convertir tu máquina física en virtual *VMware*](https://felepino.org/convertir-tu-maquina-fisica-en-virtual-vmware/)
+- [🌐 Conexión inversa a través de VPN](https://felepino.org/%f0%9f%8c%90-conexion-inversa-a-traves-de-vpn/)
 <!-- BLOG-POST-LIST:END -->
   
 </details>

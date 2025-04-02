@@ -1,4 +1,4 @@
-name: Latest stack oveflow activity
+name: Artículos últimos blog
 on:
   workflow_dispatch:
   schedule:

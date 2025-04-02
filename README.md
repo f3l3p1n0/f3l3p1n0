@@ -6,8 +6,6 @@
 <p align="center">
   <a href="https://www.youtube.com/@f3l3p1n0"><img width="32px" alt="Youtube" title="Youtube" src="https://i.postimg.cc/YSY6KCrS/youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_marcml/?igshid=Mzc1MmZhNjY%3D"><img width="32px" src="https://i.postimg.cc/MGFh4tGw/instagram.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/marc-mañé-lobato/"><img width="32px" src="https://i.postimg.cc/JhHLRSv0/linkedin-2.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://felepino.org"><img width="32px" src="https://i.postimg.cc/bwgX0kSx/internet.png"/></a>

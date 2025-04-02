@@ -58,7 +58,11 @@
   <summary>&nbsp;<h3>🌐 Artículos de mi blog</h3></summary>
   
   <!-- BLOG-POST-LIST:START -->
-- [🌐 Conexión inversa a través de VPN](https://felepino.org/%f0%9f%8c%90-conexion-inversa-a-traves-de-vpn/)
+- [🐍 Iniciar Tapo110 con Python](https://felepino.org/%f0%9f%90%8d-iniciar-tapo110-con-python/)
+- [🌐 Conectar una subred a tu red de TailScale](https://felepino.org/%f0%9f%8c%90-conectar-una-subred-a-tu-red-de-tailscale/)
+- [🔐 Asegurar servidor SSH](https://felepino.org/%f0%9f%94%90-asegurar-servidor-ssh/)
+- [🛡️ Asegurar OpenMediaVault en tu red](https://felepino.org/%f0%9f%9b%a1%ef%b8%8f-asegurar-openmediavault-en-tu-red/)
+- [⚠️ Los estados SMART no funcionan en OMV 7 [Solución]](https://felepino.org/%e2%9a%a0%ef%b8%8f-los-estados-smart-no-funcionan-en-omv-7-solucion/)
 <!-- BLOG-POST-LIST:END -->
   
 </details>

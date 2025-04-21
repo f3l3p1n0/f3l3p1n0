@@ -36,7 +36,7 @@
     <a href="https://github.com/f3l3p1n0/skullsage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=skullsage&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&border_radius=8&description_lines_count=3" alt="skullsage" width="33%"></a>
     <a href="https://github.com/f3l3p1n0/initplugs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=initplugs&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&border_radius=8&description_lines_count=3" alt="initplugs" width="33%"></a>
     <a href="https://github.com/f3l3p1n0/borgbackup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=borgbackup&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&border_radius=8&description_lines_count=3" alt="f3l3key" width="33%"></a>
-    <a href="https://github.com/f3l3p1n0/f3l3key"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=f3l3key&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&border_radius=8&description_lines_count=3" alt="f3l3key" width="33%"></a>
+    <a href="https://github.com/f3l3p1n0/notify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f3l3p1n0&repo=notify&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&border_radius=8&description_lines_count=3" alt="notify" width="33%"></a>
   </p>
 
   <p align="left">

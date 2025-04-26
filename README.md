@@ -56,11 +56,11 @@
   <summary>&nbsp;<h3>🌐 Artículos de mi blog</h3></summary>
   
   <!-- BLOG-POST-LIST:START -->
+- [⚔️ Comandos y utilidades Ciberseguridad](https://felepino.org/%e2%9a%94%ef%b8%8f-comandos-y-utilidades-ciberseguridad/)
 - [📺 Solucionar problema redimensión pantalla de la máquina virtual en Proxmox VE](https://felepino.org/%f0%9f%93%ba-solucionar-problema-redimension-pantalla-de-la-maquina-virtual-en-proxmox-ve/)
-- [🛠️ Herramientas, comandos y utilidades Ciberseguridad](https://felepino.org/%f0%9f%9b%a0%ef%b8%8f-herramientas-comandos-y-utilidades-ciberseguridad/)
+- [🛠️ Herramientas Ciberseguridad](https://felepino.org/%f0%9f%9b%a0%ef%b8%8f-herramientas-comandos-y-utilidades-ciberseguridad/)
 - [📥 Script para hacer backups con BorgBackup](https://felepino.org/%f0%9f%93%a5-script-para-hacer-backups-con-borgbackup/)
 - [💾 Crear backups con BorgBackup](https://felepino.org/%f0%9f%92%be-crear-backups-con-borgbackup/)
-- [🐍 Iniciar Tapo110 con Python](https://felepino.org/%f0%9f%90%8d-iniciar-tapo110-con-python/)
 <!-- BLOG-POST-LIST:END -->
   
 </details>

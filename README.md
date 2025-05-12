@@ -56,7 +56,7 @@
   <summary>&nbsp;<h3>🌐 Artículos de mi blog</h3></summary>
   
   <!-- BLOG-POST-LIST:START -->
-- [⚔️ Comandos y utilidades Ciberseguridad](https://felepino.org/%e2%9a%94%ef%b8%8f-comandos-y-utilidades-ciberseguridad/)
+- [💉 Inyección de comandos ImageMagick Imagetragick &lpar;CVE-2016–3714&rpar;](https://felepino.org/%f0%9f%92%89-inyeccion-de-comandos-imagemagick-imagetragick-cve-2016-3714/)
 - [📺 Solucionar problema redimensión pantalla de la máquina virtual en Proxmox VE](https://felepino.org/%f0%9f%93%ba-solucionar-problema-redimension-pantalla-de-la-maquina-virtual-en-proxmox-ve/)
 - [🛠️ Herramientas Ciberseguridad](https://felepino.org/%f0%9f%9b%a0%ef%b8%8f-herramientas-comandos-y-utilidades-ciberseguridad/)
 - [📥 Script para hacer backups con BorgBackup](https://felepino.org/%f0%9f%93%a5-script-para-hacer-backups-con-borgbackup/)

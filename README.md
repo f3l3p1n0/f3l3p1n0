@@ -56,11 +56,11 @@
   <summary>&nbsp;<h3>🌐 Artículos de mi blog</h3></summary>
   
   <!-- BLOG-POST-LIST:START -->
+- [💧 Cómo compartir pantalla en Hyprland para Arch Linux &lpar;Solución&rpar;](https://felepino.org/%f0%9f%92%a7-como-compartir-pantalla-en-hyprland-para-arch-linux-solucion/)
 - [💉 Inyección de comandos ImageMagick Imagetragick &lpar;CVE-2016–3714&rpar;](https://felepino.org/%f0%9f%92%89-inyeccion-de-comandos-imagemagick-imagetragick-cve-2016-3714/)
 - [📺 Solucionar problema redimensión pantalla de la máquina virtual en Proxmox VE](https://felepino.org/%f0%9f%93%ba-solucionar-problema-redimension-pantalla-de-la-maquina-virtual-en-proxmox-ve/)
 - [🛠️ Herramientas Ciberseguridad](https://felepino.org/%f0%9f%9b%a0%ef%b8%8f-herramientas-comandos-y-utilidades-ciberseguridad/)
 - [📥 Script para hacer backups con BorgBackup](https://felepino.org/%f0%9f%93%a5-script-para-hacer-backups-con-borgbackup/)
-- [💾 Crear backups con BorgBackup](https://felepino.org/%f0%9f%92%be-crear-backups-con-borgbackup/)
 <!-- BLOG-POST-LIST:END -->
   
 </details>

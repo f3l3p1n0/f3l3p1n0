@@ -56,11 +56,11 @@
   <summary>&nbsp;<h3>🌐 Artículos de mi blog</h3></summary>
   
   <!-- BLOG-POST-LIST:START -->
+- [🖥️ Auto-resize de pantalla en Kali Linux sobre KVM](https://felepino.org/%f0%9f%96%a5%ef%b8%8f-auto-resize-de-pantalla-en-kali-linux-sobre-kvm/)
 - [📂 Cómo compartir carpetas entre Proxmox y contenedores LXC sin perder permisos](https://felepino.org/%f0%9f%93%82-como-compartir-carpetas-entre-proxmox-y-contenedores-lxc-sin-perder-permisos/)
 - [⌨️ Mi máquina virtual no recibe los atajos de teclado que configuré [Solución en Hyprland]](https://felepino.org/solucion-hyprland/)
 - [💧 Cómo compartir pantalla en Hyprland para Arch Linux &lpar;Solución&rpar;](https://felepino.org/%f0%9f%92%a7-como-compartir-pantalla-en-hyprland-para-arch-linux-solucion/)
 - [💉 Inyección de comandos ImageMagick Imagetragick &lpar;CVE-2016–3714&rpar;](https://felepino.org/%f0%9f%92%89-inyeccion-de-comandos-imagemagick-imagetragick-cve-2016-3714/)
-- [📺 Solucionar problema redimensión pantalla de la máquina virtual en Proxmox VE](https://felepino.org/%f0%9f%93%ba-solucionar-problema-redimension-pantalla-de-la-maquina-virtual-en-proxmox-ve/)
 <!-- BLOG-POST-LIST:END -->
   
 </details>

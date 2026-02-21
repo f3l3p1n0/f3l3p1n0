@@ -77,6 +77,8 @@
 <!-- END YOUTUBE-CARDS -->
   <br/><br/>
 <p align="left">
-  <a href="https://www.youtube.com/@f3l3p1n0?sub_confirmation=1" rel="nofollow"><img src="https://camo.githubusercontent.com/03e72b505c6a4e3975ee1f7d3bd137e8b4efad98231fe8d85406c53d851cef7b/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d5375627363726962652d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d766964656f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&amp;logo=video&amp;logoColor=white"></a>
+  <a href="https://www.youtube.com/@f3l3p1n0?sub_confirmation=1" rel="nofollow">
+    <img src="https://img.shields.io/badge/Subscribe-%23FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white" alt="Subscribe"/>
+  </a>
 </p>
 </details>

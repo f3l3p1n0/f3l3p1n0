@@ -56,11 +56,11 @@
   <summary>&nbsp;<h3>🌐 Artículos de mi blog</h3></summary>
   
   <!-- BLOG-POST-LIST:START -->
-- [🟩 Hack The Box – Bashed &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-bashed-write-up/)
-- [🟩 Hack The Box – Antique &lpar;Write Up&rpar;](https://felepino.org/hack-the-box-antique-write-up/)
-- [🟩 Hack The Box – Alert &lpar;Write Up&rpar;](https://felepino.org/hack-the-box-alert-write-up/)
-- [🖥️ Auto-resize de pantalla en Kali Linux sobre KVM](https://felepino.org/%f0%9f%96%a5%ef%b8%8f-auto-resize-de-pantalla-en-kali-linux-sobre-kvm/)
-- [📂 Cómo compartir carpetas entre Proxmox y contenedores LXC sin perder permisos](https://felepino.org/%f0%9f%93%82-como-compartir-carpetas-entre-proxmox-y-contenedores-lxc-sin-perder-permisos/)
+- [🟩 Hack The Box – CozyHosting &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-cozyhosting-write-up/)
+- [🟩 Hack The Box – Code &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-code-write-up/)
+- [🟩 Hack The Box – Chemistry &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-chemistry-write-up/)
+- [🟩 Hack The Box – Cap &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-cap-write-up/)
+- [🟩 Hack The Box – Boardlight &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-boardlight-write-up/)
 <!-- BLOG-POST-LIST:END -->
   
 </details>

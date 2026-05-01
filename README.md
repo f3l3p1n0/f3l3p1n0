@@ -56,11 +56,11 @@
   <summary>&nbsp;<h3>🌐 Artículos de mi blog</h3></summary>
   
   <!-- BLOG-POST-LIST:START -->
-- [🟩 Hack The Box – CozyHosting &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-cozyhosting-write-up/)
-- [🟩 Hack The Box – Code &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-code-write-up/)
-- [🟩 Hack The Box – Chemistry &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-chemistry-write-up/)
-- [🟩 Hack The Box – Cap &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-cap-write-up/)
-- [🟩 Hack The Box – Boardlight &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-boardlight-write-up/)
+- [🟩 Hack The Box – Editorial &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-editorial-write-up/)
+- [🟩 Hack The Box – Driver &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-driver-write-up/)
+- [🟩 Hack The Box – Devel &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-devel-write-up/)
+- [🟩 Hack The Box – Delivery &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-delivery-write-up/)
+- [🟩 Hack The Box – Crafty &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-crafty-write-up/)
 <!-- BLOG-POST-LIST:END -->
   
 </details>

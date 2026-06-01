@@ -56,11 +56,11 @@
   <summary>&nbsp;<h3>🌐 Artículos de mi blog</h3></summary>
   
   <!-- BLOG-POST-LIST:START -->
+- [🟩 Hack The Box – Keeper &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-keeper-write-up/)
+- [🟩 Hack The Box – Jerry &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-jerry-write-up/)
+- [🟩 Hack The Box – Irked &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-irked-write-up/)
 - [🟩 Hack The Box – Horizontall &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-horizontall-write-up/)
 - [🟩 Hack The Box – Granny &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-granny-write-up/)
-- [🟩 Hack The Box – Grandpa &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-grandpa-write-up/)
-- [🟩 Hack The Box – GoodGames &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-goodgames-write-up/)
-- [🟩 Hack The Box – Editorial &lpar;Write Up&rpar;](https://felepino.org/%f0%9f%9f%a9-hack-the-box-editorial-write-up/)
 <!-- BLOG-POST-LIST:END -->
   
 </details>

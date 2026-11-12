@@ -8,8 +8,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/marc-mañé-lobato/"><img width="32px" src="https://i.postimg.cc/JhHLRSv0/linkedin-2.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://felepino.org"><img width="32px" src="https://i.postimg.cc/bwgX0kSx/internet.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://felepino.org/%f0%9f%9b%a0%ef%b8%8f-herramientas-comandos-y-utilidades-ciberseguridad/"><img width="32px" src="https://i.postimg.cc/qgVLL297/libreta.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/f3l3p1n07"><img width="32px" src="https://i.postimg.cc/wjQQCNY6/coffee.png"/></a>
